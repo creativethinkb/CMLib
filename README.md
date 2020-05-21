@@ -1,6 +1,7 @@
 # CMLib (Communication Middleware Library)
 <hr/>
-GitHub을 처음 사용하여 현재 테스트 중입니다.
+GitHub을 처음 사용하여 현재 테스트 중입니다. 
+
 ## 사용 목적
 <hr/>
 
