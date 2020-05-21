@@ -1,7 +1,7 @@
 # CMLib
 Communication Middleware Library
 
-##사용 목적
+## 사용 목적
 <hr/>
 GitHub을 처음 사용하여 테스트 중입니다.
 
