@@ -1,12 +1,16 @@
 # CMLib (Communication Middleware Library)
 <hr/>
-GitHub을 처음 사용하여 현재 테스트 중입니다. 
+CMLib은 .Net Framework 4.5에서 C#으로 개발되었으며, TCPListener, TCPClient, UDPClient, SerialPort, Thread, Queue등의 객체들로 구성된 통신 미들웨어이다.  
 
 ## 사용 목적
 <hr/>
+범용성과 재사용성을 고려하여 현재 사용되고 있는 통신 객체들에 대해 정리하고 DLL로 제공하여 개발자로 하여금 통신의 내부적인 사항은 고려하지 않고 공개된 API를 통해 수신 데이터를 확인하거나 송신할 수 있도록 편의를 제공한다.   
 
 ## 기능
 <hr/>
+
+<img src="https://user-images.githubusercontent.com/65689549/84605654-f3d23f80-aed9-11ea-8ddf-67c1181e4783.png" width="300px" height="200px" title="px(픽셀) 크기 설정" alt="RubberDuck"></img><br/>
+
 
 ## 버전 관리 (버그가 발생하였거나 새로운 기능이 추가될 때마다 버전 업)
 <hr/>
@@ -18,8 +22,5 @@ GitHub을 처음 사용하여 현재 테스트 중입니다.
 
 ## 개발 방향
 <hr/>
-
-
-
-
-<img src="https://user-images.githubusercontent.com/65689549/82535523-ed260600-9b81-11ea-9b54-73f09ee53ba3.png" width="150px" height="100px" title="px(픽셀) 크기 설정" alt="RubberDuck"></img><br/>
+1. 구현된 각종 통신 코드의 실 사용 중 발생되는 예외 상황 및 버그를 확인하고 수정하여 버전 Revision
+2. 새로운 데이터 전송 방식 혹은 아직 구현되지 않은 통신 방식에 대해 스터디하고 CMLib에 반영하여 버전 Revision
