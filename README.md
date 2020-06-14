@@ -14,15 +14,14 @@ CMLib은 .Net Framework 4.5에서 C#으로 개발되었으며, TCPListener, TCPC
 
 <img src="https://user-images.githubusercontent.com/65689549/84606048-3c3f2c80-aedd-11ea-8b58-dd618472c144.png" width="600px" height="200px" title="px(픽셀) 크기 설정"></img><br/>
 
-## 버전 관리 (버그가 발생하였거나 새로운 기능이 추가될 때마다 버전 업)
+## 버전 관리 
 <hr/>
-
 ### V1. TCP(Server, Client) & Serial 각각 6채널씩 통신 가능하도록 구현
 ### V2. CMLib Runtime시 NIC가 꺼져있거나 IP Address가 틀린 경우 죽는 문제 수정
-### V3. Serial 통신의 데이터 송신 오류 발생 시, 해당 채널의 Serial관련 Thread 및 객체를 해제시켜 계속해서 사용 불가, Self-Recovery되도록 수정 
+### V3. Serial 통신의 데이터 송신 오류 발생 시, 해당 채널의 Serial관련 Thread 및 객체를 해제시켜 계속해서 사용 불가, Self-Recovery되도록 수정
 ### V4. UDP(Unicast, Multicast) 6채널 추가
 
 ## 개발 방향
 <hr/>
-1. 구현된 각종 통신 코드의 실 사용 중 발생되는 예외 상황 및 버그를 확인하고 수정하여 버전 Revision
+1. 구현된 각종 통신 코드의 실 사용 중 발생되는 예외 상황 및 버그를 확인하고 수정하여 버전 Revision</br>
 2. 새로운 데이터 전송 방식 혹은 아직 구현되지 않은 통신 방식에 대해 스터디하고 CMLib에 반영하여 버전 Revision
