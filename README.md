@@ -11,6 +11,7 @@ CMLib은 .Net Framework 4.5에서 C#으로 개발되었으며, TCPListener, TCPC
 
 <img src="https://user-images.githubusercontent.com/65689549/84605654-f3d23f80-aed9-11ea-8ddf-67c1181e4783.png" width="300px" height="200px" title="px(픽셀) 크기 설정" alt="RubberDuck"></img><br/>
 
+<img src="https://user-images.githubusercontent.com/65689549/84606048-3c3f2c80-aedd-11ea-8b58-dd618472c144.png" width="300px" height="200px" title="px(픽셀) 크기 설정" alt="RubberDuck"></img><br/>
 
 ## 버전 관리 (버그가 발생하였거나 새로운 기능이 추가될 때마다 버전 업)
 <hr/>
