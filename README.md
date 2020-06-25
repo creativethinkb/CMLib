@@ -8,13 +8,17 @@ CMLib은 .Net Framework 4.5에서 C#으로 개발되었으며, TCPListener, TCPC
 
 ## 기능
 <hr/>
-<img src="https://user-images.githubusercontent.com/65689549/85645923-fa309a80-b6d5-11ea-97d2-eed2cbabd9bc.png" width="650px" height="550px" title="px(픽셀) 크기 설정"></img><br/>
+<img src="https://user-images.githubusercontent.com/65689549/84606048-3c3f2c80-aedd-11ea-8b58-dd618472c144.png" width="600px" height="200px" title="px(픽셀) 크기 설정"></img><br/>
 
 <img src="https://user-images.githubusercontent.com/65689549/84605654-f3d23f80-aed9-11ea-8ddf-67c1181e4783.png" width="350px" height="300px" title="px(픽셀) 크기 설정"></img><br/>
 
 <img src="https://user-images.githubusercontent.com/65689549/84606049-3d705980-aedd-11ea-8e5d-1a40fef9a4f1.png" width="500px" height="350px" title="px(픽셀) 크기 설정"></img><br/>
 
-<img src="https://user-images.githubusercontent.com/65689549/84606048-3c3f2c80-aedd-11ea-8b58-dd618472c144.png" width="600px" height="200px" title="px(픽셀) 크기 설정"></img><br/>
+<img src="https://user-images.githubusercontent.com/65689549/85645923-fa309a80-b6d5-11ea-97d2-eed2cbabd9bc.png" width="650px" height="550px" title="px(픽셀) 크기 설정"></img><br/>
+
+
+
+
 
 ## 버전 관리 
 <hr/>
