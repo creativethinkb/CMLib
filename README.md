@@ -13,6 +13,15 @@ CMLib은 DLL 파일을 통해 API 함수를 제공하여 front-end 개발자로 
 <hr/>
 <img src="https://user-images.githubusercontent.com/65689549/85645923-fa309a80-b6d5-11ea-97d2-eed2cbabd9bc.png" width="650px" height="550px" title="px(픽셀) 크기 설정"></img><br/>
 
+## 구성
+<hr/>
+<img src="https://user-images.githubusercontent.com/65689549/86066899-66344980-baae-11ea-877c-42721f00f35c.png" width="650px" height="550px" title="px(픽셀) 크기 설정"></img><br/>
+
+API Manager : 
+Data Manager :
+Information Manager :
+Communication Manager :
+</br>
 ## 버전 관리 
 <hr/>
 V1. TCP(Server, Client) & Serial 각각 6채널씩 통신 구현</br>
