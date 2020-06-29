@@ -6,8 +6,8 @@ CMLib은 TCP, UDP, Serial 등의 통신 기능을 제공하고, Multi-Thread로 
 <hr/>
 CMLib은 DLL 파일을 통해 API 함수를 제공하여 front-end 개발자로 하여금 통신 관리와 송/수신 데이터 처리에 관한 부분을 고려할 필요 없이 구현할 수 있도록 설계하였습니다.
 <br/>
-<img src="https://user-images.githubusercontent.com/65689549/84605654-f3d23f80-aed9-11ea-8ddf-67c1181e4783.png" width="350px" height="300px" title="px(픽셀) 크기 설정"></img>
-<img src="https://user-images.githubusercontent.com/65689549/84606048-3c3f2c80-aedd-11ea-8b58-dd618472c144.png" width="600px" height="200px" title="px(픽셀) 크기 설정"></img><br/>
+<br/>
+<img src="https://user-images.githubusercontent.com/65689549/84605654-f3d23f80-aed9-11ea-8ddf-67c1181e4783.png" width="250px" height="200px" title="px(픽셀) 크기 설정"></img>
 
 ## Sequence Diagram
 <hr/>
