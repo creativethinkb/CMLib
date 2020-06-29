@@ -18,8 +18,8 @@ CMLib은 DLL 파일을 통해 API 함수를 제공하여 front-end 개발자로 
 V1. TCP(Server, Client) & Serial 각각 6채널씩 통신 구현</br>
 V2. CMLib Runtime시 NIC가 꺼져있거나 IP Address가 다른 경우 죽는 문제 수정</br>
 V3. Serial 데이터 송신 오류 발생 시, 해당 채널의 Thread 및 객체를 해제시켜 계속해서 사용 불가한 증상, Self-Recovery되도록 수정</br>
-V4. UDP(Unicast, Multicast) 통신 방식 6채널 추가
-V5. 현재 설정된 30Hz 이상의 통신 데이터를 수신하는 경우가 있어 각 통신의 Data Read 주기를 증가하여 테스트 진행(버전 업데이트 예정) 
+V4. UDP(Unicast, Multicast) 통신 방식 6채널 추가</br>
+V5. 현재 설정된 30Hz 이상의 통신 데이터를 수신하는 경우가 있어 각 통신의 Data Read 주기를 증가하여 테스트 진행(버전 업데이트 예정)</br> 
 
 ## 개발 방향
 <hr/>
