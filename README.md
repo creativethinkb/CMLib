@@ -15,12 +15,12 @@ CMLib은 DLL 파일을 통해 API 함수를 제공하여 front-end 개발자로 
 
 ## 구성
 <hr/>
-<img src="https://user-images.githubusercontent.com/65689549/86066899-66344980-baae-11ea-877c-42721f00f35c.png" width="650px" height="550px" title="px(픽셀) 크기 설정"></img><br/>
+<img src="https://user-images.githubusercontent.com/65689549/86066899-66344980-baae-11ea-877c-42721f00f35c.png" width="450px" height="350px" title="px(픽셀) 크기 설정"></img><br/>
 
-API Manager : 
-Data Manager :
-Information Manager :
-Communication Manager :
+API Manager : </br>
+Data Manager : </br>
+Information Manager : </br>
+Communication Manager : </br>
 </br>
 ## 버전 관리 
 <hr/>
