@@ -27,7 +27,7 @@ CMLib의 통신 세션을 관리하며, Information Manager를 통해 생성된 
 Communication Manager를 통해 데이터를 수신할 준비가 완료되면, Data Manager에서는 Data Send Thread와 Data Receive Thread가 활성화된다. Data Receive Thread를 통해 수신된 데이터가 있는지 주기적으로 관찰을 시작하고 데이터 수신이 발생한 경우, Queue의 상태를 확인하고 데이터를 Queue에 입력한다. Data Send Thread는 Queue에 데이터가 입력되었는지 주기적으로 관찰하다가, 데이터가 입력되면 Queue의 상태를 확인하여 데이터를 출력한 뒤, 버퍼에 데이터를 넣고 버퍼의 내용을 목적지로 송신한다. </br>
 
 [API Manager]  </br>
-CMLib은 DLL 형태로 구현되어 있다. front-end 개발자는 프로그램을 개발할 때 CMLib을 프로젝트에 참조하여 API Manager에서 제공하는 CMLib의 외부 노출 함수를 사용하도록 구성하였다. </br>
+CMLib은 DLL 형태로 구현되어 있다. UI 개발자는 프로그램을 개발할 때 CMLib을 프로젝트에 참조하여 API Manager에서 제공하는 CMLib의 외부 노출 함수를 사용하도록 구성하였다. </br>
 
 ## 버전 관리 
 <hr/>
