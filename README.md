@@ -1,6 +1,6 @@
 # CMLib (Communication Middleware Library)
 <hr/>
-CMLib은 TCP, UDP, Serial 등의 통신 기능을 제공하고, Multi-Thread로 구성되어 동시에 여러 노드의 통신 채널과 통신이 가능한 Dynamic Link Library이다.
+CMLib은 TCP, UDP, Serial 등의 통신 기능을 제공하고, Multi-Thread로 구성되어 동시에 여러 노드의 통신 채널과 통신이 가능한 Dynamic Linking Library이다.
 
 ## 사용 목적
 <hr/>
